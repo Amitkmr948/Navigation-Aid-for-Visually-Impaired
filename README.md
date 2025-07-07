@@ -21,6 +21,10 @@ This project provides a hands-free mobility solution for the visually impaired b
 
 ---
 
+
+![Project Status](./assets/project-status.png)
+
+
 ## 🏗️ System Architecture
 
 ### 🔌 Hardware Flow
@@ -99,4 +103,4 @@ This project provides a hands-free mobility solution for the visually impaired b
 ## 📚 References
 - [1 Research](https://www.ijraset.com/best-journal/smart-wearable-guiding-device-for-the-visually-impaired-people)
 - [2 Research](https://www.mordorintelligence.com/industry-reports/assistive-technologies-for-visually-impaired-market)
-- [3 Research]((https://www.researchgate.net/publication/235005436_Guiding_Blind_People_with_Haptic_Feedback))
+- [3 Research](https://www.researchgate.net/publication/235005436_Guiding_Blind_People_with_Haptic_Feedback)
