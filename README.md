@@ -60,3 +60,43 @@ This project provides a hands-free mobility solution for the visually impaired b
 | 3D Printed Enclosure              | Lightweight housing                         |
 
 ---
+
+
+## 📈 Project Status
+
+- ✅ Real-time object detection with YOLOv8  
+- ✅ Integrated LiDAR + ultrasonic sensing  
+- ✅ Working haptic + audio feedback  
+- ⏳ GPS integration planned  
+- ⏳ Mobile app and cloud sync in development  
+
+---
+
+## 🔮 Future Roadmap
+
+- 📍 GPS-based route navigation and landmark tracking  
+- 📱 Companion mobile app (route setup, customization)  
+- ☁️ Cloud sync for logging and updates  
+- 🔁 Community support and open-source contributions  
+
+---
+
+## 👥 Team
+
+**Project by students of IIITDM Jabalpur:**
+
+- Archakam Sree Chaithanya (CSE)  
+- Shreyansh Tripathi (ECE)  
+- Satwik Baruri (Design)  
+- Aman Dhoke (CSE)  
+- Amit Kumar (ECE)  
+- Aryan (Smart Manufacturing)  
+
+**Guided by**: Dr. Dinesh Kumar V., Dept. of Electronic and Communication Engineering
+
+---
+
+## 📚 References
+- [1 Research](https://www.ijraset.com/best-journal/smart-wearable-guiding-device-for-the-visually-impaired-people)
+- [2 Research](https://www.mordorintelligence.com/industry-reports/assistive-technologies-for-visually-impaired-market)
+- [3 Research]((https://www.researchgate.net/publication/235005436_Guiding_Blind_People_with_Haptic_Feedback))
