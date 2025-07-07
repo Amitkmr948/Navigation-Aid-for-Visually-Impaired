@@ -25,3 +25,9 @@ This project provides a hands-free mobility solution for the visually impaired b
 
 ### 🔌 Hardware Flow
 
+
+# [Camera] → [Raspberry Pi 5 + YOLOv8] → Object Detection
+# ↓
+# [ESP32 Microcontroller + Sensors (LiDAR, Ultrasonic)]
+# ↓
+# [Vibration Motors] + [Bluetooth Audio Output]
