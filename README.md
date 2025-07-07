@@ -22,7 +22,14 @@ This project provides a hands-free mobility solution for the visually impaired b
 ---
 
 
-![Project Status](./assets/project-status.png)
+![Front View](https://github.com/Amitkmr948/Navigation-Aid-for-Visually-Impaired/blob/5353b588b72cc7b80eedd5b8ecbc4e88e7a09a42/Assets/Front%20Pic.jpg
+)
+
+![Top View](
+https://github.com/Amitkmr948/Navigation-Aid-for-Visually-Impaired/blob/5353b588b72cc7b80eedd5b8ecbc4e88e7a09a42/Assets/Top%20pic.jpg)
+
+
+![Side View](https://github.com/Amitkmr948/Navigation-Aid-for-Visually-Impaired/blob/5353b588b72cc7b80eedd5b8ecbc4e88e7a09a42/Assets/Side%20Pic.jpg)
 
 
 ## 🏗️ System Architecture
